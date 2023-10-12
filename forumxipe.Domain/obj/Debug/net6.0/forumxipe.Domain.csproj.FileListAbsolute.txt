@@ -1,0 +1,12 @@
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\bin\Debug\net6.0\forumxipe.Domain.deps.json
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\bin\Debug\net6.0\forumxipe.Domain.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\bin\Debug\net6.0\forumxipe.Domain.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.csproj.AssemblyReference.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.AssemblyInfoInputs.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.AssemblyInfo.cs
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\refint\forumxipe.Domain.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\forumxipe.Domain.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Domain\obj\Debug\net6.0\ref\forumxipe.Domain.dll

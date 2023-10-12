@@ -1,0 +1,17 @@
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Persistence.deps.json
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Persistence.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Persistence.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Application.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Domain.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Application.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\bin\Debug\net6.0\forumxipe.Domain.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.csproj.AssemblyReference.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.AssemblyInfoInputs.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.AssemblyInfo.cs
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.csproj.CopyComplete
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\refint\forumxipe.Persistence.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\forumxipe.Persistence.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Persistence\obj\Debug\net6.0\ref\forumxipe.Persistence.dll

@@ -1,0 +1,15 @@
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\bin\Debug\net6.0\forumxipe.Application.deps.json
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\bin\Debug\net6.0\forumxipe.Application.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\bin\Debug\net6.0\forumxipe.Application.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\bin\Debug\net6.0\forumxipe.Domain.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\bin\Debug\net6.0\forumxipe.Domain.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.csproj.AssemblyReference.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.AssemblyInfoInputs.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.AssemblyInfo.cs
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.csproj.CoreCompileInputs.cache
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.csproj.CopyComplete
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\refint\forumxipe.Application.dll
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\forumxipe.Application.pdb
+C:\Users\serqu\OneDrive\Masaüstü\workspace2\forumxipe\backend\forumxipe\forumxipe.Application\obj\Debug\net6.0\ref\forumxipe.Application.dll
