@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Domain\\forumxipe.Domain.csproj": {}
+    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Domain\\forumxipe.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Domain\\forumxipe.Domain.csproj": {
+    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Domain\\forumxipe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Domain\\forumxipe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Domain\\forumxipe.Domain.csproj",
         "projectName": "forumxipe.Domain",
-        "projectPath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Domain\\forumxipe.Domain.csproj",
+        "projectPath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Domain\\forumxipe.Domain.csproj",
         "packagesPath": "C:\\Users\\serqu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Domain\\obj\\",
         "projectStyle": "PackageReference",

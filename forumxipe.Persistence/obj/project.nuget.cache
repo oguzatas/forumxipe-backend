@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y4raxiCOzVYHGopE2UU1Nn8EGaL1Uhg8y24d/rF1zh47wzVb9JYTvrNDFnapB0bV3zAhZuaGSVWSaT4YZKz/Ig==",
+  "dgSpecHash": "SaIzqkReWHSWrlcXnwzi3vN0WYsYrEGBLIUlh+LPzCzUFDWyLOLA/UqT1nwwZNaJ763oRrA+LTI/bmhq0m64gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Persistence\\forumxipe.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Persistence\\forumxipe.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serqu\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\serqu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

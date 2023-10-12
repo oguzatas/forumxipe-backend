@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj": {}
+    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj": {
+    "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj",
         "projectName": "forumxipe.Infrastructure",
-        "projectPath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumxipe\\forumxipe.Infrastructure\\forumxipe.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\serqu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\serqu\\OneDrive\\Masaüstü\\workspace2\\forumxipe\\backend\\forumXipe\\forumxipe.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",

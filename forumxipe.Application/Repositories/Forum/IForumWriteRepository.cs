@@ -1,5 +1,4 @@
-﻿using forumxipe.Domain.Entities.Common;
-using Microsoft.EntityFrameworkCore;
+﻿using forumxipe.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace forumxipe.Application.Repositories
 {
-	public interface IRepository<T> where T : BaseEntity
+	public interface IForumWriteRepository : IWriteRepository<Forum>
 	{
-		DbSet<T> Table { get; }
 
 	}
 }

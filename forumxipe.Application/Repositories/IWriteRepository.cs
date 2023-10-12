@@ -15,12 +15,12 @@ namespace forumxipe.Application.Repositories
 
 		bool Remove(T entity);
 
-		bool Remove(string id);
+		Task<bool> RemoveAsync(string id);
 
 		bool RemoveRange(List<T> entity);
 
 
-		Task<bool> UpdateAsync(T entity);
+		bool Update(T entity);
 
 		Task<int> SaveAsync();
 

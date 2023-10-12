@@ -53,9 +53,7 @@ namespace forumxipe.Persistence.Repositories
 		}
 
 		public Task<int> SaveAsync()
-		{
-			throw new NotImplementedException();
-		}
+		=> _context.SaveChangesAsync();
 
 		public bool Update(T entity)
 		{
