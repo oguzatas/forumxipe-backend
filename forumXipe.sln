@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forumXipe", "forumXipe\forumXipe.csproj", "{895CA985-AC04-4DA4-AAF1-88FE1A37983E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{72597A23-8BE5-4A86-8B2B-09DC68C8233B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{8131D436-CA2C-4C48-9372-1B167FB6C1FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F0B545AA-B26A-4C3C-94F6-411B16627F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forumxipe.Application", "forumxipe.Application\forumxipe.Application.csproj", "{C5EA7F4C-3B21-49EF-8C2E-E2C7DB80ECA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forumxipe.Domain", "forumxipe.Domain\forumxipe.Domain.csproj", "{226784CB-8257-43BA-A313-2DF6289D1B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forumxipe.Infrastructure", "forumxipe.Infrastructure\forumxipe.Infrastructure.csproj", "{E47B35F1-E2CB-4069-85B9-6BFF2315AC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forumxipe.Persistence", "forumxipe.Persistence\forumxipe.Persistence.csproj", "{B4C1330B-5630-4130-A79C-A7B008C85E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895CA985-AC04-4DA4-AAF1-88FE1A37983E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895CA985-AC04-4DA4-AAF1-88FE1A37983E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895CA985-AC04-4DA4-AAF1-88FE1A37983E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895CA985-AC04-4DA4-AAF1-88FE1A37983E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EA7F4C-3B21-49EF-8C2E-E2C7DB80ECA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EA7F4C-3B21-49EF-8C2E-E2C7DB80ECA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EA7F4C-3B21-49EF-8C2E-E2C7DB80ECA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EA7F4C-3B21-49EF-8C2E-E2C7DB80ECA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226784CB-8257-43BA-A313-2DF6289D1B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226784CB-8257-43BA-A313-2DF6289D1B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226784CB-8257-43BA-A313-2DF6289D1B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226784CB-8257-43BA-A313-2DF6289D1B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47B35F1-E2CB-4069-85B9-6BFF2315AC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47B35F1-E2CB-4069-85B9-6BFF2315AC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47B35F1-E2CB-4069-85B9-6BFF2315AC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47B35F1-E2CB-4069-85B9-6BFF2315AC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C1330B-5630-4130-A79C-A7B008C85E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C1330B-5630-4130-A79C-A7B008C85E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C1330B-5630-4130-A79C-A7B008C85E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C1330B-5630-4130-A79C-A7B008C85E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{895CA985-AC04-4DA4-AAF1-88FE1A37983E} = {8131D436-CA2C-4C48-9372-1B167FB6C1FF}
+		{C5EA7F4C-3B21-49EF-8C2E-E2C7DB80ECA5} = {72597A23-8BE5-4A86-8B2B-09DC68C8233B}
+		{226784CB-8257-43BA-A313-2DF6289D1B04} = {72597A23-8BE5-4A86-8B2B-09DC68C8233B}
+		{E47B35F1-E2CB-4069-85B9-6BFF2315AC2F} = {F0B545AA-B26A-4C3C-94F6-411B16627F7F}
+		{B4C1330B-5630-4130-A79C-A7B008C85E2F} = {F0B545AA-B26A-4C3C-94F6-411B16627F7F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5450B7C5-6FA9-417C-B9AC-F611B25C070D}
+	EndGlobalSection
+EndGlobal
